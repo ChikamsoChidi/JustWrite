@@ -26,7 +26,7 @@ JustWrite is packed with unique features designed for the focused writer:
 ## Installation & Setup
 Download setup file, install and open the application
 
-[Installation link]
+[Download the setup file](https://github.com/ChikamsoChidi/JustWrite/releases/download/v1.0.0/justwrite_setup.exe)
 
 The application will launch in full-screen mode immediately.
 
